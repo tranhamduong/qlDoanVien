@@ -1,0 +1,15 @@
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\bin\Debug\QLDoanVien.exe.config
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\bin\Debug\QLDoanVien.exe
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\bin\Debug\QLDoanVien.pdb
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\obj\Debug\QLDoanVien.csprojAssemblyReference.cache
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\obj\Debug\QLDoanVien.QL_DoanVien.resources
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\obj\Debug\QLDoanVien.Properties.Resources.resources
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\obj\Debug\QLDoanVien.csproj.GenerateResource.cache
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\obj\Debug\QLDoanVien.csproj.CoreCompileInputs.cache
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\obj\Debug\QLDoanVien.exe
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\obj\Debug\QLDoanVien.pdb
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\bin\Debug\EntityFramework.dll
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\bin\Debug\EntityFramework.xml
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homework\OOAD\Source Code\QLDoanVien\QLDoanVien\QLDoanVien\obj\Debug\QLDoanVien.csproj.CopyComplete
